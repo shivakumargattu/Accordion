@@ -1,0 +1,29 @@
+.wraper{
+    background-color: rgb(190, 113, 13);
+    height:100vh;
+    width: 100vw;
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+}
+.item{
+    background-color: rgb(253, 251, 248);
+    padding: 10px;
+    margin-left:18px;
+    margin-right:18px;
+    margin-top: 10px;
+
+}
+.title{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+span{
+    margin-left: 20px;
+}
+h1{
+    align-items: center;
+}
